@@ -3,11 +3,11 @@
 
 [📝 Preprint](https://www.apartresearch.com/project/towards-an-agent-marketplace-for-alignment-research-amar) | [💼 Benki: the fintech alignment lab](www.ben-ki.com) | [🐬 Dorsal.fyi: cash back for transparent medical billing](www.dorsal.fyi)
 
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">a generational company will emerge in AI assurance to bring order to this chaos <a href="https://t.co/jpKAEE4eWw">https://t.co/jpKAEE4eWw</a></p>&mdash; Abrar Rahman (@abrarfrahman) <a href="https://twitter.com/abrarfrahman/status/1878203599416676651?ref_src=twsrc%5Etfw">January 11, 2025</a></blockquote>
 
 Welcome to AMAR (Agent Marketplace for Alignment Research), your go-to platform for discovering, testing, and deploying AI agents with built-in safety and alignment evaluations. Think of it as an “App Store” for AI agents—where you can review, try out, and trust agents based on transparent safety metrics and performance data.
 
 <img width="600" alt="Screenshot 2025-01-19 at 5 02 23 PM" src="https://github.com/user-attachments/assets/814556c9-40fd-4794-a8c6-fa6302407dcd" />
-
 
 ## How to Submit Your AI Agent
 
@@ -98,7 +98,8 @@ Pros and cons
 Special thanks to some of our mentors and collaborators in stealth (with many more to come)
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
-    <img src="https://engineering.berkeley.edu/sites/default/files/images/news/top/2017/01/riselab.png" alt="RISELab" title="Riselab" height="50">
+     <img src="https://media.licdn.com/dms/image/v2/D560BAQG30iGTwwPgNA/company-logo_200_200/company-logo_200_200/0/1713310378057/dorsal_fyi_logo?e=1745452800&v=beta&t=3G2Ew4YwpGghFbv4sDxkboL7i5xYgxq5vsn6n3KGvvA" alt="Dorsal" title="Dorsal" height="50"">
+     <img src="https://engineering.berkeley.edu/sites/default/files/images/news/top/2017/01/riselab.png" alt="RISELab" title="Riselab" height="50">
     <img src="https://lsvp.com/wp-content/uploads/2024/08/Goodfire-logo-.png" alt="Goodfire" title="Goodfire" height="50">
     <img src="https://www.ben-ki.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-01.ad7e65df.svg&w=256&q=75" alt="Benki" title="Benki" height="50"">
     <img src="https://www.paragonfellowship.org/_next/static/media/header-logo.8f1500a4.svg" alt="Paragon" title="Paragon" height="50">
