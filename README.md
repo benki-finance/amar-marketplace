@@ -2,7 +2,7 @@
 
 ![AI Agents Marketplace Banner](https://github.com/0xmetaschool/ai-agents/blob/main/screenshot.png?raw=true)
 
-Welcome to the **AI Agents Marketplace** by [Metaschool](https://metaschool.so/)! This is the ultimate collection of AI agents from developers around the globe. Share your own AI agent or discover new ones, complete with descriptions, features, and access links.
+Welcome to AMAR (Agent Marketplace for Alignment Research) by [Benki](https://www.ben-ki.com/)! AMAR is your go-to platform for discovering, testing, and deploying AI agents with built-in safety and alignment evaluations. Think of it as an “App Store” for AI agents—where you can review, try out, and trust agents based on transparent safety metrics and performance data.
 
 ## How to Submit Your AI Agent
 
@@ -71,7 +71,7 @@ Once your PR is submitted:
 
 ## Discover AI Agents
 
-Browse the [AI Agents Marketplace](https://metaschool.so/ai-agents) to explore all the amazing AI agents contributed by the community.
+Browse the parent of this fork, [AI Agents Marketplace by Metaschool](https://metaschool.so/ai-agents) to explore all the amazing AI agents contributed by the community.
 
 ## Contributing
 
