@@ -99,9 +99,9 @@ Special thanks to some of our mentors and collaborators in stealth (with many mo
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
      <img src="https://media.licdn.com/dms/image/v2/D560BAQG30iGTwwPgNA/company-logo_200_200/company-logo_200_200/0/1713310378057/dorsal_fyi_logo?e=1745452800&v=beta&t=3G2Ew4YwpGghFbv4sDxkboL7i5xYgxq5vsn6n3KGvvA" alt="Dorsal" title="Dorsal" height="50"">
-     <img src="https://engineering.berkeley.edu/sites/default/files/images/news/top/2017/01/riselab.png" alt="RISELab" title="Riselab" height="50">
-    <img src="https://lsvp.com/wp-content/uploads/2024/08/Goodfire-logo-.png" alt="Goodfire" title="Goodfire" height="50">
-    <img src="https://www.ben-ki.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-01.ad7e65df.svg&w=256&q=75" alt="Benki" title="Benki" height="50"">
+    <img src="https://s.yimg.com/ny/api/res/1.2/828ENQgfbZdwDubK14FFhA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTE5NQ--/https://media.zenfs.com/en/business-wire.com/8c122a20c377b26934adc185c776b219" alt="Goodfire" title="Goodfire" height="50">
+    <img src="https://media.licdn.com/dms/image/v2/D560BAQELt_r-lquOxg/company-logo_200_200/company-logo_200_200/0/1724479383633?e=1745452800&v=beta&t=Us2c72hScTaEPF61NR5SxPZEJ734KjMXl8Wn8QljK3Q" alt="Benki" title="Benki" height="50"">
+    <img src="https://rise.cs.berkeley.edu/wp-content/uploads/2017/01/riselab-at-uc-berkeley.jpg" alt="RISELab" title="Riselab" height="50">
     <img src="https://www.paragonfellowship.org/_next/static/media/header-logo.8f1500a4.svg" alt="Paragon" title="Paragon" height="50">
 </div>
 
