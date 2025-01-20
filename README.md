@@ -1,6 +1,6 @@
 # Towards an Agent Marketplace for Alignment Research
 
-<img width="854" alt="Screenshot 2025-01-19 at 5 02 23 PM" src="https://github.com/user-attachments/assets/814556c9-40fd-4794-a8c6-fa6302407dcd" />
+<img width="600" alt="Screenshot 2025-01-19 at 5 02 23 PM" src="https://github.com/user-attachments/assets/814556c9-40fd-4794-a8c6-fa6302407dcd" />
 
 Welcome to AMAR (Agent Marketplace for Alignment Research) by [Benki](https://www.ben-ki.com/)! AMAR is your go-to platform for discovering, testing, and deploying AI agents with built-in safety and alignment evaluations. Think of it as an “App Store” for AI agents—where you can review, try out, and trust agents based on transparent safety metrics and performance data.
 
@@ -82,10 +82,12 @@ We welcome contributions from everyone! Feel free to:
 # Example: AutoGPT
 
 Category tags and simple description
-<img width="919" alt="Screenshot 2025-01-19 at 4 58 40 PM" src="https://github.com/user-attachments/assets/062817b4-0ba4-4a6d-a7db-ca02b4937154" />
+
+<img width="600" alt="Screenshot 2025-01-19 at 4 58 40 PM" src="https://github.com/user-attachments/assets/062817b4-0ba4-4a6d-a7db-ca02b4937154" />
 
 Pros and cons
-<img width="785" alt="Screenshot 2025-01-19 at 4 58 58 PM" src="https://github.com/user-attachments/assets/7032330d-081c-4f45-9265-31825f56549a" />
+
+<img width="600" alt="Screenshot 2025-01-19 at 4 58 58 PM" src="https://github.com/user-attachments/assets/7032330d-081c-4f45-9265-31825f56549a" />
 
 
 ## License
