@@ -9,6 +9,8 @@ Welcome to AMAR (Agent Marketplace for Alignment Research), your go-to platform 
 
 <img width="600" alt="Screenshot 2025-01-19 at 5 02 23 PM" src="https://github.com/user-attachments/assets/814556c9-40fd-4794-a8c6-fa6302407dcd" />
 
+---
+
 ## How to Submit Your AI Agent
 
 To add your AI agent to this repository, follow these steps:
@@ -84,7 +86,7 @@ We welcome contributions from everyone! Feel free to:
 - Add new AI agents.
 - Help review PRs and provide constructive feedback.
 
-# Example: AutoGPT
+### Example: AutoGPT
 
 Category tags and simple description
 
@@ -93,6 +95,19 @@ Category tags and simple description
 Pros and cons
 
 <img width="600" alt="Screenshot 2025-01-19 at 4 58 58 PM" src="https://github.com/user-attachments/assets/7032330d-081c-4f45-9265-31825f56549a" />
+
+---
+## Etymology
+
+### **Amar 🌹**  
+***(v) - Spanish***  
+*/aˈmaɾ/*
+*"to love"*  
+
+### **অমার 💝**  
+***(pro) - Bengali***  
+*/ã'maɾ/*  
+*"possession; mine, beloved"*  
 
 ## Acknowledgments
 Special thanks to some of our mentors and collaborators in stealth (with many more to come)
