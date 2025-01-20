@@ -1,8 +1,10 @@
 # Towards an Agent Marketplace for Alignment Research
+***A Decentralized Platform for LLMOps, Alignment, and Assurance Professionals Through Social Proof***
+
+Welcome to AMAR (Agent Marketplace for Alignment Research) by [Benki](https://www.ben-ki.com/)! AMAR is your go-to platform for discovering, testing, and deploying AI agents with built-in safety and alignment evaluations. Think of it as an “App Store” for AI agents—where you can review, try out, and trust agents based on transparent safety metrics and performance data.
 
 <img width="600" alt="Screenshot 2025-01-19 at 5 02 23 PM" src="https://github.com/user-attachments/assets/814556c9-40fd-4794-a8c6-fa6302407dcd" />
 
-Welcome to AMAR (Agent Marketplace for Alignment Research) by [Benki](https://www.ben-ki.com/)! AMAR is your go-to platform for discovering, testing, and deploying AI agents with built-in safety and alignment evaluations. Think of it as an “App Store” for AI agents—where you can review, try out, and trust agents based on transparent safety metrics and performance data.
 
 ## How to Submit Your AI Agent
 
