@@ -1,7 +1,7 @@
 # Towards an Agent Marketplace for Alignment Research
 ***A Decentralized Platform for LLMOps, Alignment, and Assurance Through Eval Incentives and Social Stakes***
 
-[📝 Preprint](https://www.apartresearch.com/project/towards-an-agent-marketplace-for-alignment-research-amar) | [💼 Benki: the fintech alignment lab](www.ben-ki.com) | [🐬 Dorsal.fyi: cash back for transparent medical billing](www.dorsal.fyi)
+[📝 Preprint](https://www.apartresearch.com/project/towards-an-agent-marketplace-for-alignment-research-amar) | [💼 Benki: the fintech alignment lab](https://www.ben-ki.com) | [🐬 Dorsal.fyi: cash back for transparent medical billing](https://www.dorsal.fyi)
 
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">a generational company will emerge in AI assurance to bring order to this chaos <a href="https://t.co/jpKAEE4eWw">https://t.co/jpKAEE4eWw</a></p>&mdash; Abrar Rahman (@abrarfrahman) <a href="https://twitter.com/abrarfrahman/status/1878203599416676651?ref_src=twsrc%5Etfw">January 11, 2025</a></blockquote>
 
